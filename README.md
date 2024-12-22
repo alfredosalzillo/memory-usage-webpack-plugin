@@ -1,9 +1,10 @@
 # memory-usage-webpack-plugin
 
+[![CD](https://github.com/alfredosalzillo/memory-usage-webpack-plugin/workflows/CD/badge.svg)](https://github.com/alfredosalzillo/memory-usage-webpack-plugin/actions/workflows/CD.yml)
+[![CI](https://github.com/alfredosalzillo/memory-usage-webpack-plugin/workflows/CI/badge.svg)](https://github.com/alfredosalzillo/memory-usage-webpack-plugin/actions/workflows/CI.yml)
+[![codecov](https://codecov.io/gh/alfredosalzillo/memory-usage-webpack-plugin/branch/main/graph/badge.svg)](https://codecov.io/gh/alfredosalzillo/memory-usage-webpack-plugin)
 [![npm version](https://badge.fury.io/js/memory-usage-webpack-plugin.svg)](https://badge.fury.io/js/memory-usage-webpack-plugin)
-[![Build Status](https://travis-ci.org/alexandernanberg/memory-usage-webpack-plugin.svg?branch=master)](https://travis-ci.org/alexandernanberg/memory-usage-webpack-plugin)
-[![Coverage Status](https://coveralls.io/repos/github/alexandernanberg/memory-usage-webpack-plugin/badge.svg?branch=master)](https://coveralls.io/github/alexandernanberg/memory-usage-webpack-plugin?branch=master)
-
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 A webpack plugin to measure memory usage during the build process.
 
 ## Installation
